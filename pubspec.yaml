@@ -1,7 +1,7 @@
 name: pub_kit
 description: "A collection of flutter toolkit."
 version: 0.0.1
-homepage:
+homepage: https://github.com/naijoug/pub_kit
 
 environment:
   sdk: ^3.5.0
